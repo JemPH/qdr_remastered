@@ -1,4 +1,4 @@
-[Image](https://i.ibb.co/YbpY49v/KSH8ievvwd.png)
+![Image](https://i.ibb.co/YbpY49v/KSH8ievvwd.png)
 
 # qdr_remastered
 QDR Remastered Version 69.
