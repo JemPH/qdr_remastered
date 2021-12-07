@@ -16,6 +16,7 @@ QDR Remastered Version 69.
 4. `git clone https://github.com/JemPH/qdr_remastered.git`<br>
 5. `cd qdr_remastered`<br>
 6. `pip install -r requirements.txt`<br>
+7. `python qdr.py`<br>
 
 #### Windows
 1. Install Python.
