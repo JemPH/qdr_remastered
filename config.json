@@ -1,0 +1,37 @@
+{
+    "creds": {
+        "email": "",
+        "password": "",
+        "user_id": "",
+        "usertoken": ""
+    },
+    "prefs": {
+        "quality": 4,
+        "keep_cover": true,
+        "cover_size": 4,
+        "download_dir": "./Downloads",
+        "embed_cover": true,
+        "filename_template": "{tracknumber}. {title}",
+        "tags": {
+            "album": true,
+            "albumartist": true,
+            "artist": true,
+            "comment": "",
+            "composer": true,
+            "discnumber": true,
+            "disctotal": true,
+            "copyright": true,
+            "upc": true,
+            "date": true,
+            "genre": true,
+            "isrc": true,
+            "label": true,
+            "performer": true,
+            "title": true,
+            "tracknumber": true,
+            "tracktotal": true,
+            "url": false,
+            "year": true
+        }
+    }
+}
