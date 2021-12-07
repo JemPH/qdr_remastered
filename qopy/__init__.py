@@ -1,1 +1,0 @@
-from .qopy import Client
