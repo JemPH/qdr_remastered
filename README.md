@@ -5,7 +5,7 @@ QDR Remastered Version 69.
 
 ## Features
 * Download FLAC and MP3 files from Qobuz
-* Remod Version of qobuz-dl-reborn, only for user_id and user_token.
+* Remod Version of qobuz-dl-reborn for hash email and password or user_id and user_token.
 
 ## Installation
 #### Termux
