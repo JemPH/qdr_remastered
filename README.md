@@ -1,5 +1,4 @@
 ![Image](https://i.ibb.co/YbpY49v/KSH8ievvwd.png)
-<script type='text/javascript' src='https://storage.ko-fi.com/cdn/widget/Widget_2.js'></script><script type='text/javascript'>kofiwidget2.init('Support Me on Ko-fi', '#29abe0', 'O4O3D65S3');kofiwidget2.draw();</script> 
 # qdr_remastered
 QDR Remastered Version 69.
 
