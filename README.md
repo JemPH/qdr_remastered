@@ -1,4 +1,6 @@
 ![Image](https://i.ibb.co/YbpY49v/KSH8ievvwd.png)
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/O4O3D65S3)
+
 # qdr_remastered
 QDR Remastered Version 69.
 
